@@ -4,5 +4,22 @@
     "light": "Light mode",
     "dark": "Dark mode",
     "system": "System preference"
+  },
+  "About": {
+    "title": "About the App",
+    "appSection": {
+      "p1": "This reading app features a modern, intuitive interface designed to provide an exceptional reading experience. With support for multiple languages and a seamless dark/light mode, it adapts to your preferences effortlessly.",
+      "p2": "Built with cutting-edge technologies including Next.js 14, React 19, and TypeScript, this application delivers fast performance and robust functionality. The UI is crafted using TailwindCSS and ShadCN components for a polished, professional look.",
+      "p3": "Our internationalization system supports multiple languages, starting with English and Portuguese, with plans to expand to more languages. The app automatically detects your system preferences and language settings for a personalized experience."
+    },
+    "developer": "Developer",
+    "developerBio": "Full-Stack Developer specializing in modern web technologies, with a focus on creating performant, accessible, and user-friendly applications. Passionate about clean code and best practices.",
+    "githubProfile": "GitHub Profile"
+  },
+  "LocaleSwitcher": {
+    "toggleLanguage": "Toggle language"
+  },
+  "Header": {
+    "about": "About"
   }
 } 

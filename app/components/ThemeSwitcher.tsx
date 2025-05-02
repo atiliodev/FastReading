@@ -38,7 +38,7 @@ export function ThemeSwitcher() {
             variant="ghost"
             size="icon"
             onClick={toggleTheme}
-            className="relative h-9 w-9 transition-colors hover:bg-accent"
+            className="h-9 w-9 hover:bg-accent hover:text-accent-foreground"
             aria-label={t('toggleTheme')}
           >
             <Sun className="h-5 w-5 rotate-0 scale-100 transition-all dark:-rotate-90 dark:scale-0" />

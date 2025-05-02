@@ -4,5 +4,22 @@
     "light": "Modo claro",
     "dark": "Modo escuro",
     "system": "Preferência do sistema"
+  },
+  "About": {
+    "title": "Sobre o Aplicativo",
+    "appSection": {
+      "p1": "Este aplicativo de leitura apresenta uma interface moderna e intuitiva, projetada para proporcionar uma experiência excepcional de leitura. Com suporte a múltiplos idiomas e um modo claro/escuro perfeito, ele se adapta às suas preferências sem esforço.",
+      "p2": "Desenvolvido com tecnologias de ponta, incluindo Next.js 14, React 19 e TypeScript, este aplicativo oferece desempenho rápido e funcionalidade robusta. A interface é elaborada usando TailwindCSS e componentes ShadCN para uma aparência polida e profissional.",
+      "p3": "Nosso sistema de internacionalização suporta múltiplos idiomas, começando com inglês e português, com planos de expansão para mais idiomas. O aplicativo detecta automaticamente suas preferências de sistema e configurações de idioma para uma experiência personalizada."
+    },
+    "developer": "Desenvolvedor",
+    "developerBio": "Desenvolvedor Full-Stack especializado em tecnologias web modernas, com foco na criação de aplicações performáticas, acessíveis e amigáveis. Apaixonado por código limpo e melhores práticas.",
+    "githubProfile": "Perfil GitHub"
+  },
+  "LocaleSwitcher": {
+    "toggleLanguage": "Alternar idioma"
+  },
+  "Header": {
+    "about": "Sobre"
   }
 } 
