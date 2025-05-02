@@ -1,0 +1,8 @@
+{
+  "ThemeSwitcher": {
+    "toggleTheme": "Toggle theme",
+    "light": "Light mode",
+    "dark": "Dark mode",
+    "system": "System preference"
+  }
+} 
